@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556714445275",
+    "project_id": "papelaria-d8924",
+    "storage_bucket": "papelaria-d8924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556714445275:android:b11489e1466be49fb8fffe",
+        "android_client_info": {
+          "package_name": "com.example.provaparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556714445275-chenpvksm6j55rkd97ev8bvip0krg9ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yj7BWEpIYJv_CnzgabahA4lhz7fxOos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556714445275-chenpvksm6j55rkd97ev8bvip0krg9ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
